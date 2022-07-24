@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:1> ;
     skos:prefLabel "Bua"@eng-Latn ;
-    wdata:q7200235 "FJ102" ;
+    wdata:Q7200235 "FJ102" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -61,7 +61,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:1> ;
     skos:prefLabel "Cakaudrove"@eng-Latn ;
-    wdata:q7200235 "FJ103" ;
+    wdata:Q7200235 "FJ103" ;
 .
 
 <urn:mdciii:1603:16:242:2:107>
@@ -73,7 +73,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:1> ;
     skos:prefLabel "Macuata"@eng-Latn ;
-    wdata:q7200235 "FJ107" ;
+    wdata:Q7200235 "FJ107" ;
 .
 
 <urn:mdciii:1603:16:242:2:201>
@@ -85,7 +85,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:2> ;
     skos:prefLabel "Ba"@eng-Latn ;
-    wdata:q7200235 "FJ201" ;
+    wdata:Q7200235 "FJ201" ;
 .
 
 <urn:mdciii:1603:16:242:2:208>
@@ -97,7 +97,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:2> ;
     skos:prefLabel "Nadroga/Navosa"@eng-Latn ;
-    wdata:q7200235 "FJ208" ;
+    wdata:Q7200235 "FJ208" ;
 .
 
 <urn:mdciii:1603:16:242:2:211>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:2> ;
     skos:prefLabel "Ra"@eng-Latn ;
-    wdata:q7200235 "FJ211" ;
+    wdata:Q7200235 "FJ211" ;
 .
 
 <urn:mdciii:1603:16:242:2:304>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:3> ;
     skos:prefLabel "Kadavu"@eng-Latn ;
-    wdata:q7200235 "FJ304" ;
+    wdata:Q7200235 "FJ304" ;
 .
 
 <urn:mdciii:1603:16:242:2:305>
@@ -133,7 +133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:3> ;
     skos:prefLabel "Lau"@eng-Latn ;
-    wdata:q7200235 "FJ305" ;
+    wdata:Q7200235 "FJ305" ;
 .
 
 <urn:mdciii:1603:16:242:2:306>
@@ -145,7 +145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:3> ;
     skos:prefLabel "Lomaiviti"@eng-Latn ;
-    wdata:q7200235 "FJ306" ;
+    wdata:Q7200235 "FJ306" ;
 .
 
 <urn:mdciii:1603:16:242:2:315>
@@ -157,7 +157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:3> ;
     skos:prefLabel "Rotuma"@eng-Latn ;
-    wdata:q7200235 "FJ315" ;
+    wdata:Q7200235 "FJ315" ;
 .
 
 <urn:mdciii:1603:16:242:2:409>
@@ -169,7 +169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:4> ;
     skos:prefLabel "Naitasiri"@eng-Latn ;
-    wdata:q7200235 "FJ409" ;
+    wdata:Q7200235 "FJ409" ;
 .
 
 <urn:mdciii:1603:16:242:2:410>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:4> ;
     skos:prefLabel "Namosi"@eng-Latn ;
-    wdata:q7200235 "FJ410" ;
+    wdata:Q7200235 "FJ410" ;
 .
 
 <urn:mdciii:1603:16:242:2:412>
@@ -193,7 +193,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:4> ;
     skos:prefLabel "Rewa"@eng-Latn ;
-    wdata:q7200235 "FJ412" ;
+    wdata:Q7200235 "FJ412" ;
 .
 
 <urn:mdciii:1603:16:242:2:413>
@@ -205,7 +205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:4> ;
     skos:prefLabel "Serua"@eng-Latn ;
-    wdata:q7200235 "FJ413" ;
+    wdata:Q7200235 "FJ413" ;
 .
 
 <urn:mdciii:1603:16:242:2:414>
@@ -217,6 +217,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:242:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:242:1:4> ;
     skos:prefLabel "Tailevu"@eng-Latn ;
-    wdata:q7200235 "FJ414" ;
+    wdata:Q7200235 "FJ414" ;
 .
 

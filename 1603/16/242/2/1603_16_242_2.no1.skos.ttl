@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:242()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:102" ;
     skos:prefLabel "Bua"@eng-Latn ;
-    wdata:q7200235 "FJ102" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +52,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:103" ;
     skos:prefLabel "Cakaudrove"@eng-Latn ;
-    wdata:q7200235 "FJ103" ;
 .
 
 <urn:mdciii:1603:16:242:2:107>
@@ -63,7 +60,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:107" ;
     skos:prefLabel "Macuata"@eng-Latn ;
-    wdata:q7200235 "FJ107" ;
 .
 
 <urn:mdciii:1603:16:242:2:201>
@@ -72,7 +68,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:201" ;
     skos:prefLabel "Ba"@eng-Latn ;
-    wdata:q7200235 "FJ201" ;
 .
 
 <urn:mdciii:1603:16:242:2:208>
@@ -81,7 +76,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:208" ;
     skos:prefLabel "Nadroga/Navosa"@eng-Latn ;
-    wdata:q7200235 "FJ208" ;
 .
 
 <urn:mdciii:1603:16:242:2:211>
@@ -90,7 +84,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:211" ;
     skos:prefLabel "Ra"@eng-Latn ;
-    wdata:q7200235 "FJ211" ;
 .
 
 <urn:mdciii:1603:16:242:2:304>
@@ -99,7 +92,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:304" ;
     skos:prefLabel "Kadavu"@eng-Latn ;
-    wdata:q7200235 "FJ304" ;
 .
 
 <urn:mdciii:1603:16:242:2:305>
@@ -108,7 +100,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:305" ;
     skos:prefLabel "Lau"@eng-Latn ;
-    wdata:q7200235 "FJ305" ;
 .
 
 <urn:mdciii:1603:16:242:2:306>
@@ -117,7 +108,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:306" ;
     skos:prefLabel "Lomaiviti"@eng-Latn ;
-    wdata:q7200235 "FJ306" ;
 .
 
 <urn:mdciii:1603:16:242:2:315>
@@ -126,7 +116,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:315" ;
     skos:prefLabel "Rotuma"@eng-Latn ;
-    wdata:q7200235 "FJ315" ;
 .
 
 <urn:mdciii:1603:16:242:2:409>
@@ -135,7 +124,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:409" ;
     skos:prefLabel "Naitasiri"@eng-Latn ;
-    wdata:q7200235 "FJ409" ;
 .
 
 <urn:mdciii:1603:16:242:2:410>
@@ -144,7 +132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:410" ;
     skos:prefLabel "Namosi"@eng-Latn ;
-    wdata:q7200235 "FJ410" ;
 .
 
 <urn:mdciii:1603:16:242:2:412>
@@ -153,7 +140,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:412" ;
     skos:prefLabel "Rewa"@eng-Latn ;
-    wdata:q7200235 "FJ412" ;
 .
 
 <urn:mdciii:1603:16:242:2:413>
@@ -162,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:413" ;
     skos:prefLabel "Serua"@eng-Latn ;
-    wdata:q7200235 "FJ413" ;
 .
 
 <urn:mdciii:1603:16:242:2:414>
@@ -171,6 +156,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:242:2:414" ;
     skos:prefLabel "Tailevu"@eng-Latn ;
-    wdata:q7200235 "FJ414" ;
 .
 
